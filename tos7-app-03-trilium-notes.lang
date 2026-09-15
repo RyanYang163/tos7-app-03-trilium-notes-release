@@ -1,0 +1,97 @@
+[en-us]
+name = "Trilium Notes"
+auth = "TOS Review Test Corpus"
+descript = "A hierarchical note-taking application for building large personal knowledge bases."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[zh-cn]
+name = "Trilium Notes"
+auth = "TOS Review Test Corpus"
+descript = "一款为构建大型个人知识库而设计的层级式笔记应用。"
+release_note = "1. 首次发布。"
+important = "需要先安装并启用 DockerEngine。"
+
+[zh-hk]
+name = "Trilium Notes"
+auth = "TOS Review Test Corpus"
+descript = "一款為構建大型個人知識庫而設計的層級式筆記應用。"
+release_note = "1. 首次发布。"
+important = "需要先安装并启用 DockerEngine。"
+
+[fr-fr]
+name = "Trilium Notes"
+auth = "TOS Review Test Corpus"
+descript = "A hierarchical note-taking application for building large personal knowledge bases."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[de-de]
+name = "Trilium Notes"
+auth = "TOS Review Test Corpus"
+descript = "A hierarchical note-taking application for building large personal knowledge bases."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[it-it]
+name = "Trilium Notes"
+auth = "TOS Review Test Corpus"
+descript = "A hierarchical note-taking application for building large personal knowledge bases."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[es-es]
+name = "Trilium Notes"
+auth = "TOS Review Test Corpus"
+descript = "A hierarchical note-taking application for building large personal knowledge bases."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[hu-hu]
+name = "Trilium Notes"
+auth = "TOS Review Test Corpus"
+descript = "A hierarchical note-taking application for building large personal knowledge bases."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ja-jp]
+name = "Trilium Notes"
+auth = "TOS Review Test Corpus"
+descript = "A hierarchical note-taking application for building large personal knowledge bases."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ko-kr]
+name = "Trilium Notes"
+auth = "TOS Review Test Corpus"
+descript = "A hierarchical note-taking application for building large personal knowledge bases."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[pl-pl]
+name = "Trilium Notes"
+auth = "TOS Review Test Corpus"
+descript = "A hierarchical note-taking application for building large personal knowledge bases."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ru-ru]
+name = "Trilium Notes"
+auth = "TOS Review Test Corpus"
+descript = "A hierarchical note-taking application for building large personal knowledge bases."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[tr-tr]
+name = "Trilium Notes"
+auth = "TOS Review Test Corpus"
+descript = "A hierarchical note-taking application for building large personal knowledge bases."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[pt-pt]
+name = "Trilium Notes"
+auth = "TOS Review Test Corpus"
+descript = "A hierarchical note-taking application for building large personal knowledge bases."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."

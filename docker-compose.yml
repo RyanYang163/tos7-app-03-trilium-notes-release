@@ -1,0 +1,24 @@
+version: "3.8"
+
+services:
+  tos7-app-03-trilium-notes:
+    image: zadam/trilium:0.63.7
+    container_name: tos7-app-03-trilium-notes
+    restart: unless-stopped
+    ports:
+      - "18083:8080"
+    user: "1000:1000"
+    volumes:
+      - /Volume*/DockerAppData/tos7-app-03-trilium-notes/data:/home/node/trilium-data
+    environment:
+      - TZ=Asia/Shanghai
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/api/health-check"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+x-app-meta:
+  web:
+    port: 18083
+    protocol: http
